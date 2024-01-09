@@ -1,6 +1,6 @@
 {"ads":{
   
-"huawei_inter":"testb4znbuh3n2",
+"huawei_inter":"f3kp08dqtx",
 "huawei_banner":"testw6vs28auh3",
 "huawei_native":"testu7m3hc4gvm"
 
